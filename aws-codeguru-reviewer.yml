@@ -2,4 +2,4 @@
 version: 1.0
 
 excludeFiles:
-  - src/**
+  - src/main/java/com/shipmentEvents/handlers/**
